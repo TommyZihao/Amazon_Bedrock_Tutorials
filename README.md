@@ -1,0 +1,2 @@
+# Amazon_Bedrock_Tutorials
+Amazon Bedrock生成式AI和大模型开发，同济子豪兄代码教程
